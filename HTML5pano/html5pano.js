@@ -45,7 +45,7 @@ var 	cam_fov=90;
 var img_buffer=null;
 var img = new Image();
 img.onload = imageLoaded;
-img.src = '360photo.jpg';		
+img.src = 'mini360photo.jpg';		
 
 
 function init_pano(canvasid){
